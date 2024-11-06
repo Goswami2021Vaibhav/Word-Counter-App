@@ -10,5 +10,5 @@ Whether you’re just starting out or looking to practice your JavaScript, this 
 
 - Website: [Visit](https://developergoswami.com)
 - Video: [Watch Now](https://youtu.be/6mcJ4De-ERs)
-- Demo: [Click Here]()
+- Demo: [Click Here](https://goswami2021vaibhav.github.io/Word-Counter-App)
  
